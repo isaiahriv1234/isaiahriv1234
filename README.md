@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tech Stack</p>
+<p align="left">Languages and Tools</p>
 
 ###
 

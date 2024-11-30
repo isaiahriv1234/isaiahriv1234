@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Isaiah Rivera and I'm an aspiring Software Engineer from America</h2>
+<h2 align="left">Hi 👋! My name is Isaiah Rivera and I'm an aspiring Software Engineer from 🇺🇸</h2>
 
 ###
 
-<p align="left">I code with:</p>
+<p align="left">Tech Stack</p>
 
 ###
 

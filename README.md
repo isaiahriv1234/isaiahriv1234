@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋! My name is Isaiah Rivera, and I'm an aspiring Software Engineer from 🇺🇸
 
 <!--
 **isaiahriv1234/isaiahriv1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

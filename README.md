@@ -1,4 +1,4 @@
-<h2 align="left">Hi! Im Isaiah Rivera, a Computer Science Major</h2>
+<h2 align="left">Hello! I'm Isaiah Rivera, a Computer Science Major</h2>
 
 ###
 

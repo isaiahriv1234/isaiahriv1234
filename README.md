@@ -1,5 +1,5 @@
 <h2 align="left">
-Hello! 
+Hi! 
 I'm Isaiah Rivera,
 A Computer Engineering Major</h2>
 

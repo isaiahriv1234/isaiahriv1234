@@ -1,5 +1,5 @@
 <h2 align="left">
-Hey I'm Isaiah I study Data Science Major at UC Berkeley</h2>
+Hey I'm Isaiah and I study Data Science at UC Berkeley</h2>
 
 ###
 

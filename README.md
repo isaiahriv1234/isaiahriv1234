@@ -1,6 +1,6 @@
 <h2 align="center">
   Hey I'm Isaiah Rivera<br>
-  Computer Engineering and Computer Science @ USC
+  Data Science @ UC Berkeley
 </h2>
 
 ###

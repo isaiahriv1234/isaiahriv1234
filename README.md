@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey I'm Isaiah<br>
+  Hey I'm Isaiah Rivera<br>
   Data Science @ UC Berkeley
 </h2>
 

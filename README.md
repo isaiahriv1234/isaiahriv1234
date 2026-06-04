@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
 Hey I'm Isaiah and I study Data Science at UC Berkeley</h2>
 
 ###
